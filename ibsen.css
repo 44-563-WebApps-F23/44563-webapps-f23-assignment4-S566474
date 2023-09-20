@@ -14,19 +14,19 @@ h4{
     background-color: lightgray;
 }
 .direction:hover{
-    background-color: aliceblue;
+    background-color:blueviolet;
     color:bisque;
 }
 .REGINA{
     font-size: 15px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: antiquewhite;
+    color:purple;
     text-align: left;
 }
 .ENGSTRAND{
     font-size: 15px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:aquamarine;
+    color:peru;
     text-align: left; 
 }
 .MANDERS{
@@ -38,7 +38,7 @@ h4{
 .MRS.ALVING{
     font-size: 15px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:azure;
+    color:olive;
     text-align: left; 
 }
 .OSWALD{
@@ -52,7 +52,7 @@ td{
     padding: 19px;
 }
 tr:nth-child(even){
-    background-color:aqua;
+    background-color:lightcoral;
 }
 tr:nth-child(old){
     background-color:lightpink;
