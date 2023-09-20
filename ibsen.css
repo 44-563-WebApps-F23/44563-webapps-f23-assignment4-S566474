@@ -47,3 +47,15 @@ h4{
     color:blueviolet;
     text-align: left; 
 }
+th,
+td{
+    padding: 19px;
+}
+tr:nth-child(even){
+    background-color:aqua;
+}
+tr:nth-child(old){
+    background-color:lightpink;
+}
+
+
