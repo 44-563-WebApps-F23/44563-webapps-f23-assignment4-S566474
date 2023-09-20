@@ -23,11 +23,23 @@ h4{
     color:purple;
     text-align: left;
 }
+.REGINA:hover{
+    filter:brightness(1.5px);
+    border-style:double;
+    text-shadow: #800069 5px 0 6px;
+    font-size: 14px;
+}
 .ENGSTRAND{
     font-size: 15px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:peru;
     text-align: left; 
+}
+.ENGSTRAND:hover{
+    filter:brightness(1.5px);
+    border-style:double;
+    text-shadow: rgb(128, 113, 0) 5px 0 6px;
+    font-size: 14px;
 }
 .MANDERS{
     font-size: 15px;
@@ -35,17 +47,36 @@ h4{
     color:brown;
     text-align: left; 
 }
+.MANDERS:hover{
+    filter:brightness(1.5px);
+    border-style:double;
+    text-shadow: #006d80 5px 0 6px;
+    font-size: 14px;
+}
+
 .MRS.ALVING{
     font-size: 15px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:olive;
     text-align: left; 
 }
+.MRS.ALVING:hover{
+    filter:brightness(1.5px);
+    border-style:double;
+    text-shadow: hsl(130, 100%, 25%) 5px 0 6px;
+    font-size: 14px;
+}
 .OSWALD{
     font-size: 15px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:blueviolet;
     text-align: left; 
+}
+.OSWALD:hover{
+    filter:brightness(1.5px);
+    border-style:double;
+    text-shadow: hwb(19 0% 50%) 5px 0 6px;
+    font-size: 14px;
 }
 table,
 th,
